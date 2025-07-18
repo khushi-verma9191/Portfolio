@@ -33,7 +33,7 @@ Email: khushi.verma@example.com
 
 LinkedIn: linkedin.com/in/khushi-verma
 
-Portfolio Live: [Coming Soon via Vercel/Netlify]
+Portfolio Live: (https://portfolio-q57vdvayf-khushi-vermas-projects-a8c224f0.vercel.app/)
 
 📝 Credits
 This portfolio was built with love, late-night coffees, and the desire to keep learning. Special thanks to my mentors and colleagues for constant inspiration.
