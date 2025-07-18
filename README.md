@@ -23,9 +23,6 @@ Open the index.html file in your browser.
 
 Note: Ensure all assets (images, CSS, JS) are in the correct directories.
 
-🖼️ Preview
-
-
 📫 Contact
 Feel free to connect with me:
 
@@ -39,16 +36,3 @@ Portfolio Live: (https://portfolio-q57vdvayf-khushi-vermas-projects-a8c224f0.ver
 This portfolio was built with love, late-night coffees, and the desire to keep learning. Special thanks to my mentors and colleagues for constant inspiration.
 
 "Every line of code is a step toward a better future. This is just the beginning."
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like to add:
-- **Project sections** (with links and tech stacks),
-- **Live deployed link**, or
-- Any badges/shields for GitHub.
-
-I'll tailor it accordingly.
