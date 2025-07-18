@@ -28,7 +28,7 @@ form.addEventListener("submit", async (e) => {
         setTimeout(() => {
             successMessage.style.display = "none";
         }, 5000);
-        
+
     } catch (error) {
         console.error("Error:", error);
         return;
