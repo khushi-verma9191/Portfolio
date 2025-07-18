@@ -26,9 +26,9 @@ Note: Ensure all assets (images, CSS, JS) are in the correct directories.
 📫 Contact
 Feel free to connect with me:
 
-Email: khushi.verma@example.com
+Email: kvonline9878@gmail.com
 
-LinkedIn: linkedin.com/in/khushi-verma
+LinkedIn: https://www.linkedin.com/in/khushi-verma91/
 
 Portfolio Live: https://khushi-verma-portfolio.vercel.app/
 
