@@ -1,4 +1,4 @@
-# 💼 Khushi Verma — Full Stack Developer Portfolio
+## 💼 Khushi Verma — Full Stack Developer Portfolio
 
 Welcome to my developer portfolio — a curated showcase of my work, skills, and continuous journey in software engineering and modern web development.
 
@@ -6,7 +6,7 @@ This portfolio reflects my focus on building scalable, secure, and user-centric 
 
 ---
 
-# 👩‍💻 About Me
+### 👩‍💻 About Me
 
 Hi, I'm Khushi Verma — a Backend & Full Stack Developer passionate about creating clean, maintainable, and impactful digital solutions.
 
@@ -32,7 +32,7 @@ I enjoy understanding how systems work internally — from backend request lifec
 
 ---
 
-# 🚀 Portfolio Highlights
+### 🚀 Portfolio Highlights
 
 ✨ Fully responsive modern UI  
 ✨ Modular and maintainable code structure  
@@ -44,26 +44,26 @@ I enjoy understanding how systems work internally — from backend request lifec
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Frontend
+### Frontend
 
 - HTML5
 - CSS3
 - Bootstrap
 - JavaScript
 
-## Backend
+### Backend
 
 - PHP
 - Laravel
 - CodeIgniter
 
-## Database
+### Database
 
 - MySQL
 
-## Tools & Platforms
+### Tools & Platforms
 
 - Git & GitHub
 - Vercel
@@ -72,7 +72,7 @@ I enjoy understanding how systems work internally — from backend request lifec
 
 ---
 
-# 📂 Featured Sections
+## 📂 Featured Sections
 
 - 👩‍💻 About Me
 - 🧠 Skills & Technologies
@@ -83,7 +83,7 @@ I enjoy understanding how systems work internally — from backend request lifec
 
 ---
 
-# ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 Clone the repository:
 
@@ -101,14 +101,14 @@ Open `index.html` in your browser.
 
 ---
 
-# 🌍 Live Demo
+## 🌍 Live Demo
 
 🔗 Portfolio Website:  
 [khushi-verma-portfolio.vercel.app](https://khushi-verma-portfolio.vercel.app/)
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 ### LinkedIn
 
@@ -124,7 +124,7 @@ kvonline9878@gmail.com
 
 ---
 
-# 📈 Current Focus
+## 📈 Current Focus
 
 Currently working on improving my expertise in:
 
@@ -138,7 +138,7 @@ Currently working on improving my expertise in:
 
 ---
 
-# 🧠 Development Philosophy
+## 🧠 Development Philosophy
 
 I believe great software is not just about writing code — it's about:
 
@@ -151,7 +151,7 @@ Every project is an opportunity to grow as an engineer and create meaningful dig
 
 ---
 
-# 🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Built with curiosity, consistency, and countless learning hours.
 
@@ -159,6 +159,6 @@ Special thanks to mentors, teammates, and the open-source community for continuo
 
 ---
 
-# ✨ Quote
+## ✨ Quote
 
 > “Every line of code is a step toward building smarter, scalable, and meaningful solutions.”
